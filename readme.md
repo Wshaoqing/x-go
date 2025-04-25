@@ -3,22 +3,22 @@
 
 
 # 项目介绍
-## 项目地址：
+## 项目地址：https://github.com/Wshaoqing/x-go.git
 ##结果展示
 
 ### 配置展示
-![img_4.png](img_4.png)
+![./img_4.png](img_4.png)
 ### 数据库结果
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
+![./img_1.png](img_1.png)
+![./img_2.png](img_2.png)
 
 ###日志输出
-![img_3.png](img_3.png)
+![./img_3.png](img_3.png)
 
 
 ## 1. 项目的目录结构
 一个典型的项目目录结构如下所示：
-![img.png](img.png)
+![./img.png](img.png)
 
 ## 2. Pip 需要安装的依赖
 需要确保您的虚拟环境中已安装所有依赖。
