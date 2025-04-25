@@ -1,0 +1,16 @@
+# config.yaml
+database:
+  host: localhost
+  port: 3306
+  username: root
+  password: 123456
+  dbname: x_go
+
+scheduler:
+  tasks:
+    - name: task_1
+      cron: "*/5 * * * *"       # 每 5 分钟执行一次
+    - name: task_2
+      interval: 2     # 每 2 秒执行一次
+    - name: task_1
+      cron: "0 0 * * *"       # 每 5 分钟执行一次

@@ -1,0 +1,74 @@
+2025-04-26 00:10:23,978 - Main - INFO - Scheduled task 'task_1' with cron: */5 * * * *
+2025-04-26 00:10:23,978 - Main - INFO - Scheduled task 'task_1'
+2025-04-26 00:10:23,978 - Main - INFO - Scheduled task 'task_2' with interval: 2 seconds
+2025-04-26 00:10:23,978 - Main - INFO - Scheduled task 'task_2'
+2025-04-26 00:10:23,978 - Main - INFO - Scheduled task 'task_1' with cron: 0 0 * * *
+2025-04-26 00:10:23,978 - Main - INFO - Scheduled task 'task_1'
+2025-04-26 00:10:23,979 - Main - INFO - Scheduler started.
+2025-04-26 00:10:26,000 - TwitterTask - INFO - Executing task 'task_2'
+2025-04-26 00:10:26,006 - TwitterTask - INFO - Current Time: 2025-04-26 00:10:26
+2025-04-26 00:10:26,157 - TwitterTask - INFO - Fetching data for user: word
+2025-04-26 00:10:26,319 - db_utils - INFO - Updated existing record with ID: 3
+2025-04-26 00:10:26,354 - TwitterTask - INFO - Saved data for user: word
+2025-04-26 00:10:26,367 - TwitterTask - INFO - Fetching data for user: mask
+2025-04-26 00:10:26,415 - db_utils - INFO - Updated existing record with ID: 2
+2025-04-26 00:10:26,463 - TwitterTask - INFO - Saved data for user: mask
+2025-04-26 00:10:26,485 - TwitterTask - INFO - Fetching data for user: 23
+2025-04-26 00:10:26,528 - db_utils - INFO - Updated existing record with ID: 1
+2025-04-26 00:10:26,590 - TwitterTask - INFO - Saved data for user: 23
+2025-04-26 00:10:27,999 - TwitterTask - INFO - Executing task 'task_2'
+2025-04-26 00:10:28,005 - TwitterTask - INFO - Current Time: 2025-04-26 00:10:28
+2025-04-26 00:10:28,019 - TwitterTask - INFO - Fetching data for user: word
+2025-04-26 00:10:28,066 - db_utils - INFO - Updated existing record with ID: 3
+2025-04-26 00:10:28,098 - TwitterTask - INFO - Saved data for user: word
+2025-04-26 00:10:28,114 - TwitterTask - INFO - Fetching data for user: mask
+2025-04-26 00:10:28,153 - db_utils - INFO - Updated existing record with ID: 2
+2025-04-26 00:10:28,191 - TwitterTask - INFO - Saved data for user: mask
+2025-04-26 00:10:28,204 - TwitterTask - INFO - Fetching data for user: 23
+2025-04-26 00:10:28,275 - db_utils - INFO - Updated existing record with ID: 1
+2025-04-26 00:10:28,322 - TwitterTask - INFO - Saved data for user: 23
+2025-04-26 00:10:30,002 - TwitterTask - INFO - Executing task 'task_2'
+2025-04-26 00:10:30,008 - TwitterTask - INFO - Current Time: 2025-04-26 00:10:30
+2025-04-26 00:10:30,014 - TwitterTask - INFO - Fetching data for user: word
+2025-04-26 00:10:30,056 - db_utils - INFO - Updated existing record with ID: 3
+2025-04-26 00:10:30,115 - TwitterTask - INFO - Saved data for user: word
+2025-04-26 00:10:30,141 - TwitterTask - INFO - Fetching data for user: mask
+2025-04-26 00:10:30,193 - db_utils - INFO - Updated existing record with ID: 2
+2025-04-26 00:10:30,246 - TwitterTask - INFO - Saved data for user: mask
+2025-04-26 00:10:30,265 - TwitterTask - INFO - Fetching data for user: 23
+2025-04-26 00:10:30,322 - db_utils - INFO - Updated existing record with ID: 1
+2025-04-26 00:10:30,368 - TwitterTask - INFO - Saved data for user: 23
+2025-04-26 00:10:31,998 - TwitterTask - INFO - Executing task 'task_2'
+2025-04-26 00:10:32,004 - TwitterTask - INFO - Current Time: 2025-04-26 00:10:32
+2025-04-26 00:10:32,011 - TwitterTask - INFO - Fetching data for user: word
+2025-04-26 00:10:32,063 - db_utils - INFO - Updated existing record with ID: 3
+2025-04-26 00:10:32,108 - TwitterTask - INFO - Saved data for user: word
+2025-04-26 00:10:32,128 - TwitterTask - INFO - Fetching data for user: mask
+2025-04-26 00:10:32,170 - db_utils - INFO - Updated existing record with ID: 2
+2025-04-26 00:10:32,222 - TwitterTask - INFO - Saved data for user: mask
+2025-04-26 00:10:32,228 - TwitterTask - INFO - Fetching data for user: 23
+2025-04-26 00:10:32,269 - db_utils - INFO - Updated existing record with ID: 1
+2025-04-26 00:10:32,303 - TwitterTask - INFO - Saved data for user: 23
+2025-04-26 00:10:33,995 - TwitterTask - INFO - Executing task 'task_2'
+2025-04-26 00:10:34,007 - TwitterTask - INFO - Current Time: 2025-04-26 00:10:34
+2025-04-26 00:10:34,032 - TwitterTask - INFO - Fetching data for user: word
+2025-04-26 00:10:34,073 - db_utils - INFO - Updated existing record with ID: 3
+2025-04-26 00:10:34,124 - TwitterTask - INFO - Saved data for user: word
+2025-04-26 00:10:34,136 - TwitterTask - INFO - Fetching data for user: mask
+2025-04-26 00:10:34,242 - db_utils - INFO - Updated existing record with ID: 2
+2025-04-26 00:10:34,299 - TwitterTask - INFO - Saved data for user: mask
+2025-04-26 00:10:34,311 - TwitterTask - INFO - Fetching data for user: 23
+2025-04-26 00:10:34,352 - db_utils - INFO - Updated existing record with ID: 1
+2025-04-26 00:10:34,392 - TwitterTask - INFO - Saved data for user: 23
+2025-04-26 00:10:36,000 - TwitterTask - INFO - Executing task 'task_2'
+2025-04-26 00:10:36,007 - TwitterTask - INFO - Current Time: 2025-04-26 00:10:36
+2025-04-26 00:10:36,014 - TwitterTask - INFO - Fetching data for user: word
+2025-04-26 00:10:36,058 - db_utils - INFO - Updated existing record with ID: 3
+2025-04-26 00:10:36,116 - TwitterTask - INFO - Saved data for user: word
+2025-04-26 00:10:36,135 - TwitterTask - INFO - Fetching data for user: mask
+2025-04-26 00:10:36,205 - db_utils - INFO - Updated existing record with ID: 2
+2025-04-26 00:10:36,261 - TwitterTask - INFO - Saved data for user: mask
+2025-04-26 00:10:36,274 - TwitterTask - INFO - Fetching data for user: 23
+2025-04-26 00:10:36,334 - db_utils - INFO - Updated existing record with ID: 1
+2025-04-26 00:10:36,368 - TwitterTask - INFO - Saved data for user: 23
+2025-04-26 00:10:36,585 - Main - INFO - Shutting down...
