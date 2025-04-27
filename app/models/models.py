@@ -24,7 +24,11 @@ class TwitterData(Base):
 config = load_config()
 engine = create_engine(
     f"mysql+pymysql://{config['database']['username']}:{config['database']['password']}@"
-    f"{config['database']['host']}:{config['database']['port']}/{config['database']['dbname']}"
+    f"{config['database']['host']}:{config['database']['port']}/{config['database']['dbname']}",
+    pool_pre_ping=True,  # 自动检查连接是否有效
+    pool_recycle=3600,   # 每小时回收一次连接（小于 MySQL 的 wait_timeout）
+    pool_size=10,        # 连接池大小
+    max_overflow=20      # 允许的最大溢出连接数
 )
 Session = sessionmaker(bind=engine)
 session = Session()
